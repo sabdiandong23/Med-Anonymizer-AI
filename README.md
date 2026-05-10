@@ -1,10 +1,7 @@
-文件夹F/数据集里面，real训练集是未嵌入文字信息的，训练集就是最初网站上下载下来的，测试集也是
-yolo_dataset里头是嵌入文字信息之后的训练集，
-运行app.py在终端输入streamlit run app.py
-模型保存地址C:\Users\33663\runs\detect\train4
+
 
 流程图：
-![img.png](img.png)
+<img width="1452" height="2801" alt="mermaid-diagram" src="https://github.com/user-attachments/assets/89f6cea5-3bbe-4aec-9b8f-b2682ce3d535" />
 
 baseline结果：
 Model summary (fused): 73 layers, 3,006,233 parameters, 0 gradients, 8.1 GFLOPs

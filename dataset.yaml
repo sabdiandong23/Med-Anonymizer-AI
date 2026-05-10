@@ -1,0 +1,7 @@
+path: F:/数据集/yolo_dataset
+
+train: images/train
+val: images/val
+
+names:
+  0: PHI
